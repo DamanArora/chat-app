@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DamanArora/chat-app/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/DamanArora/chat-app/static/js/main.3d0339c1.chunk.js",
+    "main.js.map": "/DamanArora/chat-app/static/js/main.3d0339c1.chunk.js.map",
+    "runtime-main.js": "/DamanArora/chat-app/static/js/runtime-main.dbc1b526.js",
+    "runtime-main.js.map": "/DamanArora/chat-app/static/js/runtime-main.dbc1b526.js.map",
+    "static/js/2.b9979d1b.chunk.js": "/DamanArora/chat-app/static/js/2.b9979d1b.chunk.js",
+    "static/js/2.b9979d1b.chunk.js.map": "/DamanArora/chat-app/static/js/2.b9979d1b.chunk.js.map",
+    "index.html": "/DamanArora/chat-app/index.html",
+    "precache-manifest.739e8c382e92e4d468fddd4056ad5ca6.js": "/DamanArora/chat-app/precache-manifest.739e8c382e92e4d468fddd4056ad5ca6.js",
+    "service-worker.js": "/DamanArora/chat-app/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/DamanArora/chat-app/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.b9979d1b.chunk.js.LICENSE.txt": "/DamanArora/chat-app/static/js/2.b9979d1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbc1b526.js",
+    "static/js/2.b9979d1b.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.3d0339c1.chunk.js"
+  ]
+}
